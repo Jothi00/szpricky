@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/szpricky/szpricky)]
-[![Repos Badge](https://badges.pufler.dev/repos/szpricky)]
-[![Years Badge](https://badges.pufler.dev/years/szpricky)]
+![Visits Badge](https://badges.pufler.dev/visits/szpricky/szpricky)
+![Repos Badge](https://badges.pufler.dev/repos/szpricky)
+![Years Badge](https://badges.pufler.dev/years/szpricky)
 
 <!--
 **szpricky/szpricky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
