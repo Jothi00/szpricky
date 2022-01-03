@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+![Visitor Count](https://profile-counter.glitch.me/szpricky/count.svg)
 
 <!--
 **szpricky/szpricky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
