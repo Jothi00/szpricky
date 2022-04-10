@@ -4,11 +4,15 @@ Welcome to my GitHub page!
 
 ### 🤳 About Me
 
-I'm Richard
+I'm Richárd Szilágyi, a software development student at Munster Technological University.
 
 - 👨‍💻 Software developer
 - 🇭🇺 From Budapest, Hungary
 - 🇮🇪 Currently living in Cork, Ireland 
+- 🔭 I’m currently working on **college projects**
+- 🌱 I’m currently learning **JavaFX, data structures and algorithms**
+- 🤔 Curious to learn about **Artificial Intelligence, Data Science and Blockchain technologies** 
+- 💬 Ask me about **JavaScript, Java, web development**
 
 ### 📊 Stats
 ![Visits Badge](https://badges.pufler.dev/visits/szpricky/szpricky)
@@ -35,16 +39,3 @@ I'm Richard
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/szpricky)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/szpricky)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/eo5r84)
-
-<!--
-**szpricky/szpricky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
