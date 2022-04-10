@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning **JavaFX framework**, **MongoDB**, **data structures and algorithms**, **R language** and **C language**.
 - 🤔 I'm curious to learn about **artificial intelligence**, **data science** and **blockchain technologies**.
 - 💬 Ask me about **JavaScript**, **Java**, **Python**, **web development**.
--⚡️ Fun fact: I have [my name on the surface of Mars](https://mars.nasa.gov/participate/send-your-name/orion-first-flight/?cn=409520).
+- ⚡ Fun fact: I have [my name on the surface of Mars](https://mars.nasa.gov/participate/send-your-name/orion-first-flight/?cn=409520).
 
 ### 📊 Stats
 
