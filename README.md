@@ -6,9 +6,9 @@ Welcome to my GitHub page!
 
 I'm Richard
 
-👨‍💻 Software developer
-🇭🇺 From Budapest, Hungary
-🇮🇪 Currently living in Cork, Ireland 
+- 👨‍💻 Software developer
+- 🇭🇺 From Budapest, Hungary
+- 🇮🇪 Currently living in Cork, Ireland 
 
 ### 📊 Stats
 ![Visits Badge](https://badges.pufler.dev/visits/szpricky/szpricky)
@@ -17,7 +17,7 @@ I'm Richard
 
 ![szpricky's github stats](https://github-readme-stats.vercel.app/api?username=szpricky&show_icons=true&theme=dracula)
 
-### ⚙️ Tech Stack
+### ⚙️ What I'm working with
 
 | Frontend | Backend | Databases | Tools | Deployment | Embedded Systems | Data Analysis | IDEs |
 | - | - | - | - | - | - | - | - |
@@ -27,7 +27,7 @@ I'm Richard
 | ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff) | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=ffffff) | ![TypeScript](https://img.shields.io/badge/-TypeScript-2d79c7?style=flat-square&logo=typescript&logoColor=ffffff) | | ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-ce1d56?style=flat-square&logo=raspberry-pi&logoColor=ffffff) |
 | ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) | | | ![Webpack](https://img.shields.io/badge/-Webpack-2b3a42?style=flat-square&logo=webpack&logoColor=ffffff) |
 
-### 📞 Contacts
+### 📞 How to reach me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rickypsz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szpatrikrichard)
@@ -44,6 +44,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
