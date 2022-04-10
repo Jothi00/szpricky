@@ -17,7 +17,7 @@
 - 🇮🇪 Currently living in Cork, Ireland.
 - 🔭 I’m currently working on **college projects** and a **portfolio site**.
 - 🌱 I’m currently learning **JavaFX framework**, **MongoDB**, **data structures and algorithms**, **R language** and **C language**.
-- 🤔 Curious to learn about **artificial intelligence**, **data science** and **blockchain technologies**.
+- 🤔 I'm curious to learn about **artificial intelligence**, **data science** and **blockchain technologies**.
 - 💬 Ask me about **JavaScript**, **Java**, **Python**, **web development**.
 
 ### 📊 Stats
