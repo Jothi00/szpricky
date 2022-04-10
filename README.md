@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/szpricky)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/eo5r84)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Richárd+Szilágyi.;I+create+software+and+websites.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Richárd+Szilágyi.;I+create+software+and+websites;Solving+problems+and+writing+code.)
 
 ### 🤳 About Me
 
