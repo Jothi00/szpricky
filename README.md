@@ -19,7 +19,13 @@ I'm Richárd Szilágyi, a software development student at Munster Technological 
 ![Repos Badge](https://badges.pufler.dev/repos/szpricky)
 ![Years Badge](https://badges.pufler.dev/years/szpricky)
 
-![szpricky's github stats](https://github-readme-stats.vercel.app/api?username=szpricky&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=szpricky&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szpricky&layout=compact&theme=radical)
+
+<!-- Repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=szpricky&repo=guestbook-api)](https://github.com/szpricky/guestbook-api)
+-->
 
 ### ⚙️ What I'm working with
 
